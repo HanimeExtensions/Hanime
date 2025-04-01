@@ -1,0 +1,39 @@
+{
+  "extensions": [
+    {
+      "name": "MangaDex",
+      "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
+      "version": "1.2.3",
+      "sourceUrl": "https://mangadex.org",
+      "lang": "en"
+    },
+    {
+      "name": "MangaSee",
+      "pkg": "eu.kanade.tachiyomi.extension.en.mangasee",
+      "version": "1.0.5",
+      "sourceUrl": "https://mangasee123.com",
+      "lang": "en"
+    },
+    {
+      "name": "MangaRock",
+      "pkg": "eu.kanade.tachiyomi.extension.all.mangarock",
+      "version": "1.5.0",
+      "sourceUrl": "https://mangarock.com",
+      "lang": "en"
+    },
+    {
+      "name": "ComicWalker",
+      "pkg": "eu.kanade.tachiyomi.extension.jp.comicwalker",
+      "version": "1.0.7",
+      "sourceUrl": "https://comic-walker.com",
+      "lang": "jp"
+    },
+    {
+      "name": "Webtoons",
+      "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
+      "version": "1.4.2",
+      "sourceUrl": "https://webtoons.com",
+      "lang": "all"
+    }
+  ]
+}
